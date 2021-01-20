@@ -20,7 +20,7 @@ public class cwh_05_Taking_inputs {
         String str = s.next(); //next() takes only one word......nextLine() takes the whole line
         System.out.println(str);
 
-        
+
 
 
     }
