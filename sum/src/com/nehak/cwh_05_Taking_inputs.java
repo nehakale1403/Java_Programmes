@@ -21,7 +21,6 @@ public class cwh_05_Taking_inputs {
         System.out.println(str);
 
 
-
-
+        //hasnextI() gives boolean expressions...true or false
     }
 }
