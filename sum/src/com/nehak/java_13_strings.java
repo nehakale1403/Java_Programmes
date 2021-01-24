@@ -3,6 +3,7 @@ package com.nehak;
 public class java_13_strings {
     public static void main(String[] args) {
 
+        //here we are using the string class
         String name = new String("Neha");
         System.out.println(name);
 
